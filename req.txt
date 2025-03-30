@@ -1,0 +1,7 @@
+requests
+requests_toolbelt
+pyinstaller
+termcolor
+colored
+cython
+sqlite3
